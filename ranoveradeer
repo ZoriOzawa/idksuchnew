@@ -3250,7 +3250,7 @@ function run(Player)
 
 				local Extra = {
 					Shirt = Character:FindFirstChildOfClass("Shirt"),
-					Pants = Character:FindFirstChildOfClass(""),
+					Pants = Character:FindFirstChildOfClass("Pants"),
 					TShirt = Character:FindFirstChildOfClass("ShirtGraphic"),
 					UVToggle = DataConfig.UVToggle
 				}
