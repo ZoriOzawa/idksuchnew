@@ -8883,445 +8883,135 @@ local AccessoryType = {
 local Bundle = {
 ["nil"] = "nil",
 ["Bald"] = {},
-["Test"] = {
+["Bird"] = {
 ["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
+["HeadColor3"] = Color3.fromRGB(255, 255, 255),
+["LeftArmColor3"] = Color3.fromRGB(255, 255, 255),
+["RightArmColor3"] = Color3.fromRGB(255, 255, 255),
+["LeftLegColor3"] = Color3.fromRGB(255, 255, 255),
+["RightLegColor3"] = Color3.fromRGB(255, 255, 255),
+["TorsoColor3"] = Color3.fromRGB(255, 255, 255),
 },
 ["Accessory"] = {
-5920341268,
-6441537838,
-6472725579
-}
-},
-["Black 1"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-7392396295,
-7863333749,
-7675263201
-}
-},
-["Brown 1"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-7284085462,
-6441537838,
-}
-},
-["Black 2"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-10752612567,
-6812033514,
-12283951209,
-12815729656,
-12931195148
-}
-},
-["Black 3"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-6036143892,
-6413085241,
-6754455467,
-7896143574,
-7133439522
-}
-},
-["Black 4"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-7097787052,
-7335390462,
-8923597159,
-6310032618
-}
-},
-["Black 5"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-11416699089,
-8273712381,
-11959885521,
-8923597159
-}
-},
-["White 1"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-7240955578,
-9244453644,
-9240826224,
-8275349855,
-9241889306
-}
-},
-["White 2"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-8082861034,
-8089294103,
-8089443065
-}
-},
-["White With Hat 1"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-7175904988,
-7214725742,
-9008202379
-}
-},
-["White With Hat 2"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-8207715434,
-7175904988,
-6216526940
-}
-},
-["White 3"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-7240955578,
-9244453644,
-8275349855,
-9241889306,
-9240826224
-}
-},
-["Black 6"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-8089495899,
-398672920,
-12982832975
-}
-},
-["Black 7"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-8082486982,
-6441072389,
-9241886323
-}
-},
-["Black 8"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-6752624930,
-7240994068,
-7259123616,
-8207687270
-}
-},
-["Black 9"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-12410899973,
-7486725420,
-12485469802,
-11095474871,
-10001005299
-}
-},
-["Black Fade Green"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-10661041028,
-11387061216,
-7280442851
-}
-},
-["White 4"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-7222659174,
-12726002629,
-10088463133,
-7628287080
-}
-},
-["White 5"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-6475395916,
-7063887536,
-8652761405
-}
-},
-["White Mix Pink"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-7486035624,
-8275245292,
-8614911363
-}
-},
-["Black Mix Red"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-9731173784,
-11050607388,
-11405828721
-}
-},
-["Black 10"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-11180024054,
-9240831931,
-10001005299,
-9241886323
-}
-},
-["Black 11"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-7141674388,
-7168295329,
-8040379705,
-8821393761,
-9571729576
-}
-},
-["Red"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-6842683595,
-6840001710,
-8031588258
-}
-},
-["White 6"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-7259147441,
-7733302642
-}
-},
-["Sportsy"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
-},
-["Accessory"] = {
-7097787052,
-7335390462,
-8923597159,
-6310032618
-},
-["Clothing"] = {
-"Croptop",
-"Pussy Closed",
-"Panty 2",
-"Shoe 3",
-"Sock 2",
-"Skirt 2",
-"Glove"
-}
-},
-["Mimi"] = {
-["Body Color"] = {
-["HeadColor3"] = Color3.fromRGB(233, 184, 145),
-["LeftArmColor3"] = Color3.fromRGB(233, 184, 145),
-["RightArmColor3"] = Color3.fromRGB(233, 184, 145),
-["LeftLegColor3"] = Color3.fromRGB(233, 184, 145),
-["RightLegColor3"] = Color3.fromRGB(233, 184, 145),
-["TorsoColor3"] = Color3.fromRGB(233, 184, 145),
-},
-["Accessory"] = {
-82879052599298,
-120729210458213,
-17590602534,
-73567120581664
+91062554142860,
+134367619594593,
+73155621470480,
+16203506162,
+16578861463,
+6102712313,
+95289443169659,
+81359861304923,
+104175275023494
 },
 ["Clothes"] = {
-["Shirt"] = 121936175724069,
-["Pants"] = 107910834770771,
+["Shirt"] = 15314264130,
+["Pants"] = 15295914581,
 },
 ["Clothing"] = {
-"Roblox Breasts Clothing",
+"Fishnet Stockings",
+"Oiled",
+"Panty",
+"Bra",
 "Roblox Shirt",
-"Roblox Butt Shirt",
+"Roblox Pants"
+}
+},
+["BongBong"] = {
+["Body Color"] = {
+["HeadColor3"] = Color3.fromRGB(255, 255, 255),
+["LeftArmColor3"] = Color3.fromRGB(255, 255, 255),
+["RightArmColor3"] = Color3.fromRGB(255, 255, 255),
+["LeftLegColor3"] = Color3.fromRGB(255, 255, 255),
+["RightLegColor3"] = Color3.fromRGB(255, 255, 255),
+["TorsoColor3"] = Color3.fromRGB(255, 255, 255),
+},
+["Accessory"] = {
+17378076409,
+4624257829,
+128790437351837,
+16227089629,
+11482676189,
+11492031561
+},
+["Clothes"] = {
+["Shirt"] = 89514403586799,
+["Pants"] = 13390074865,
+},
+["Clothing"] = {
 "Roblox Pants",
+"Remove Breasts",
+"Roblox Shirt"
+}
+},
+["Valentine"] = {
+["Body Color"] = {
+["HeadColor3"] = Color3.fromRGB(255, 255, 255),
+["LeftArmColor3"] = Color3.fromRGB(255, 255, 255),
+["RightArmColor3"] = Color3.fromRGB(255, 255, 255),
+["LeftLegColor3"] = Color3.fromRGB(255, 255, 255),
+["RightLegColor3"] = Color3.fromRGB(255, 255, 255),
+["TorsoColor3"] = Color3.fromRGB(255, 255, 255),
+},
+["Accessory"] = {
+6275985850,
+118069455126787,
+118622666247677,
+95742437875722,
+92127305144632,
+6741970721,
+95289443169659,
+138053271763603,
+123337876594210,
+139842599488116,
+87879080556186,
+91238601044517,
+92085524323901
+},
+["Clothes"] = {
+["Shirt"] = 108284112031992,
+["Pants"] = 16760851743,
+},
+["Clothing"] = {
+"Yoru String",
+"Bra"
+}
+},
+["Aori1"] = {
+["Body Color"] = {
+["HeadColor3"] = Color3.fromRGB(255, 255, 255),
+["LeftArmColor3"] = Color3.fromRGB(255, 255, 255),
+["RightArmColor3"] = Color3.fromRGB(255, 255, 255),
+["LeftLegColor3"] = Color3.fromRGB(255, 255, 255),
+["RightLegColor3"] = Color3.fromRGB(255, 255, 255),
+["TorsoColor3"] = Color3.fromRGB(255, 255, 255),
+},
+["Accessory"] = {
+125152822126972,
+93569810958100,
+137320453364582,
+102130930439535,
+84312830787954,
+100664039215645,
+94443379399457,
+93991618746966,
+92428968743584,
+16535137942,
+96530087039020,
+85969435247047,
+105925595820007,
+6238537571
+},
+["Clothes"] = {
+["Shirt"] = 13286114060,
+["Pants"] = 17231815437,
+},
+["Clothing"] = {
+"Oiled",
+"Roblox Pants",
+"Roblox Shirt",
+"Glove",
+"Bra",
+"Yoru String"
 },
 },
 -- Clothing Bundles --
@@ -9331,96 +9021,6 @@ local Bundle = {
 "Roblox Shirt",
 "Roblox Butt Shirt",
 "Roblox Pants",
-},
-["ClothingBundle"] = true
-},
-["Roblox Clothing w/o Breasts"] = {
-["Clothing"] = {
-"Roblox Shirt",
-"Roblox Butt Shirt",
-"Roblox Pants",
-},
-["ClothingBundle"] = true
-},
-["Birdly Outfit"] = {
-["Clothing"] = {
-"Birdly Dress",
-"Birdly Backpack",
-"Birdly Bottom Dress",
-"Birdly Sleeves"
-},
-["ClothingBundle"] = true
-},
-["Cow Bikini"] = {
-["Clothing"] = {
-"Cow Bra",
-"Cow Panty"
-},
-["Preset"] = {
-BreastsScale = 1
-},
-["ClothingBundle"] = true
-},
-["Kitty Outfit"] = {
-["Clothing"] = {
-"Kitty Bra",
-"Kitty Panty",
-"Kitty Band",
-"Kitty Aspects"
-},
-["Preset"] = {
-BreastsScale = 1
-},
-["ClothingBundle"] = true
-},
-["Bunny Suit"] = {
-["Clothing"] = {
-"Bunny Suit",
-"Collar w/ Bow",
-"Bunny Bands",
-"Bunny Aspects",
-"Fishnet Stockings"
-},
-["Preset"] = {
-BreastsScale = 1,
-ButtsScale = 1
-},
-["ClothingBundle"] = true
-},
-["Messy"] = {
-["Clothing"] = {
-"Torso Cum",
-"Leg Cum",
-"Arm Cum",
-"Butts Cum",
-"Butts Cum 2",
-"Breasts Cum",
-"Breasts Cum Type2",
-"Face Cum",
-"Face Cum 2",
-"Pussy Cum",
-},
-["ClothingBundle"] = true
-},
-["Messy [Rudolph]"] = {
-["Clothing"] = {
-"[Rudolph] Torso Cum",
-"[Rudolph] Leg Cum",
-"[Rudolph] Arm Cum",
-"Butts Cum",
-"Butts Cum 2",
-"Breasts Cum",
-"Breasts Cum Type2",
-"Face Cum",
-"Face Cum 2",
-"Pussy Cum",
-},
-["ClothingBundle"] = true
-},
-["Freckles"] = {
-["Clothing"] = {
-"Breast Freckles",
-"Butt Freckles",
 },
 ["ClothingBundle"] = true
 },
@@ -9500,30 +9100,50 @@ LegsType = 3
 },
 ["IsPreset"] = true
 },
-["[PRESET] ROBLOX Body Type"] = {
+["[PRESET] Bong BongBody Type"] = {
 ["Preset"] = {
-TorsoType = 5,
+TorsoType = 1,
 ArmType = 3,
-LegsType = 4
+LegsType = 4,
+ButtsScale = 0
 },
 ["IsPreset"] = true
 },
-["[PRESET] Buff Body Type"] = {
+["[PRESET] Army Zori"] = {
 ["Preset"] = {
 TorsoType = 6,
-ArmType = 4
+ArmType = 4,
+LegsType = 1,
+ButtType = 1,
+ButtsScale = 0,
+BreastsScale = 1.08,
+BreastsType = 2
 },
 ["IsPreset"] = true
 },
-["[PRESET] Male"] = {
+["[PRESET] Base"] = {
 ["Preset"] = {
-TorsoType = 5,
-ArmType = 3,
-LegsType = 4
+TorsoType = 3,
+ArmType = 2,
+LegsType = 3
+ButtType = 3,
+ButtsScale = 1,
+BreastsScale = 1,
+BreastsType = 2
+},
+["IsPreset"] = true
+},
+["Aori2"] = {
+["Preset"] = {
+TorsoType = 3,
+BreastsType = 2,
+ArmType = 2,
+LegsType = 3,
+ButtType = 3,
+ButtsScale = 1.04
 },
 ["Clothing"] = {
-"Cock",
-"Remove Breasts",
+"Oiled",
 },
 ["IsPreset"] = true
 },
